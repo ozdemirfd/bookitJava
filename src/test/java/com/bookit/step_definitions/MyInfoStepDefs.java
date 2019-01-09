@@ -126,7 +126,11 @@ public class MyInfoStepDefs {
 
 	 
 	}
-
+	@When("user is on the my self page")
+	public void user_is_on_the_my_self_page() {
+	   SelfPage selfPage=new SelfPage();
+	   selfPage.goToTeam();
+	}
 
 
 	
