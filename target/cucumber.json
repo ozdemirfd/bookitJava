@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 830642344,
+              "duration": 795272339,
               "status": "passed"
             },
             "match": {
@@ -15,7 +15,7 @@
           },
           {
             "result": {
-              "duration": 2138489027,
+              "duration": 2318859349,
               "status": "passed"
             },
             "match": {
@@ -30,7 +30,7 @@
         "after": [
           {
             "result": {
-              "duration": 1024819,
+              "duration": 1349034,
               "status": "passed"
             },
             "match": {
@@ -39,7 +39,7 @@
           },
           {
             "result": {
-              "duration": 94044173,
+              "duration": 92788650,
               "status": "passed"
             },
             "match": {
@@ -52,7 +52,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6043333598,
+              "duration": 5677797353,
               "status": "passed"
             },
             "line": 19,
@@ -74,20 +74,17 @@
           },
           {
             "result": {
-              "duration": 123660440,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 20,
             "name": "user is on the my self page",
-            "match": {
-              "location": "MyInfoStepDefs.user_is_on_the_my_self_page()"
-            },
+            "match": {},
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 545468201,
-              "status": "passed"
+              "duration": 15343,
+              "status": "skipped"
             },
             "line": 21,
             "name": "team info should match with the database records \"efewtrell8c@craigslist.org\"",
@@ -116,7 +113,7 @@
         "before": [
           {
             "result": {
-              "duration": 422277560,
+              "duration": 425564282,
               "status": "passed"
             },
             "match": {
@@ -125,7 +122,7 @@
           },
           {
             "result": {
-              "duration": 1209376505,
+              "duration": 1143767537,
               "status": "passed"
             },
             "match": {
@@ -140,7 +137,7 @@
         "after": [
           {
             "result": {
-              "duration": 565677,
+              "duration": 598266,
               "status": "passed"
             },
             "match": {
@@ -149,7 +146,7 @@
           },
           {
             "result": {
-              "duration": 96045137,
+              "duration": 107445844,
               "status": "passed"
             },
             "match": {
@@ -162,7 +159,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4696977698,
+              "duration": 5229801123,
               "status": "passed"
             },
             "line": 19,
@@ -184,20 +181,17 @@
           },
           {
             "result": {
-              "duration": 113935791,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 20,
             "name": "user is on the my self page",
-            "match": {
-              "location": "MyInfoStepDefs.user_is_on_the_my_self_page()"
-            },
+            "match": {},
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 490769127,
-              "status": "passed"
+              "duration": 9170,
+              "status": "skipped"
             },
             "line": 21,
             "name": "team info should match with the database records \"jrowesby8h@google.co.uk\"",
@@ -226,7 +220,7 @@
         "before": [
           {
             "result": {
-              "duration": 439105036,
+              "duration": 417695067,
               "status": "passed"
             },
             "match": {
@@ -235,7 +229,7 @@
           },
           {
             "result": {
-              "duration": 1173088819,
+              "duration": 1151095830,
               "status": "passed"
             },
             "match": {
@@ -250,7 +244,7 @@
         "after": [
           {
             "result": {
-              "duration": 316332,
+              "duration": 568676,
               "status": "passed"
             },
             "match": {
@@ -259,7 +253,7 @@
           },
           {
             "result": {
-              "duration": 88648110,
+              "duration": 91280388,
               "status": "passed"
             },
             "match": {
@@ -272,7 +266,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4701734360,
+              "duration": 4537615881,
               "status": "passed"
             },
             "line": 19,
@@ -294,20 +288,17 @@
           },
           {
             "result": {
-              "duration": 137790096,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 20,
             "name": "user is on the my self page",
-            "match": {
-              "location": "MyInfoStepDefs.user_is_on_the_my_self_page()"
-            },
+            "match": {},
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 580329482,
-              "status": "passed"
+              "duration": 8277,
+              "status": "skipped"
             },
             "line": 21,
             "name": "team info should match with the database records \"bmurkus8q@psu.edu\"",
