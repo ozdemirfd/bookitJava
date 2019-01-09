@@ -1,0 +1,11 @@
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/pages/MySelfPage.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/step_definitions/ScheduleStepDefinitions.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/utilities/ConfigurationReader.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/utilities/Driver.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/step_definitions/AccountInfoStepDefs.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/pages/MapPage.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/step_definitions/Hooks.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/pages/TopNavigationBar.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/pages/SignInPage.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/step_definitions/LoginStepDefinitions.java
+/Users/fd/seleniumfolder/testing-maven/bookit.automation-tests/src/test/java/com/bookit/runners/CukesRunner.java

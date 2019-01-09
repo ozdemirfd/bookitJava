@@ -1,0 +1,343 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 830642344,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.dbHook()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2138489027,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "my self",
+        "description": "",
+        "id": "information-about-me;my-self;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1024819,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterDbHook()"
+            }
+          },
+          {
+            "result": {
+              "duration": 94044173,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6043333598,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user logs in using \"efewtrell8c@craigslist.org\"  \"jamesmay\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"efewtrell8c@craigslist.org\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"jamesmay\"",
+                  "offset": 49
+                }
+              ],
+              "location": "MyInfoStepDefs.user_logs_in_using(String,String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 123660440,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user is on the my self page",
+            "match": {
+              "location": "MyInfoStepDefs.user_is_on_the_my_self_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 545468201,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "team info should match with the database records \"efewtrell8c@craigslist.org\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"efewtrell8c@craigslist.org\"",
+                  "offset": 49
+                }
+              ],
+              "location": "MyInfoStepDefs.team_info_should_match_with_the_database_records(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@temp"
+          },
+          {
+            "name": "@db"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 422277560,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.dbHook()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1209376505,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "my self",
+        "description": "",
+        "id": "information-about-me;my-self;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 565677,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterDbHook()"
+            }
+          },
+          {
+            "result": {
+              "duration": 96045137,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4696977698,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user logs in using \"jrowesby8h@google.co.uk\"  \"aldridgegrimsdith\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"jrowesby8h@google.co.uk\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"aldridgegrimsdith\"",
+                  "offset": 46
+                }
+              ],
+              "location": "MyInfoStepDefs.user_logs_in_using(String,String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 113935791,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user is on the my self page",
+            "match": {
+              "location": "MyInfoStepDefs.user_is_on_the_my_self_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 490769127,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "team info should match with the database records \"jrowesby8h@google.co.uk\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"jrowesby8h@google.co.uk\"",
+                  "offset": 49
+                }
+              ],
+              "location": "MyInfoStepDefs.team_info_should_match_with_the_database_records(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@temp"
+          },
+          {
+            "name": "@db"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 439105036,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.dbHook()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1173088819,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "my self",
+        "description": "",
+        "id": "information-about-me;my-self;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 316332,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterDbHook()"
+            }
+          },
+          {
+            "result": {
+              "duration": 88648110,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4701734360,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user logs in using \"bmurkus8q@psu.edu\"  \"alicasanbroke\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"bmurkus8q@psu.edu\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"alicasanbroke\"",
+                  "offset": 40
+                }
+              ],
+              "location": "MyInfoStepDefs.user_logs_in_using(String,String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 137790096,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user is on the my self page",
+            "match": {
+              "location": "MyInfoStepDefs.user_is_on_the_my_self_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 580329482,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "team info should match with the database records \"bmurkus8q@psu.edu\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"bmurkus8q@psu.edu\"",
+                  "offset": 49
+                }
+              ],
+              "location": "MyInfoStepDefs.team_info_should_match_with_the_database_records(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@temp"
+          },
+          {
+            "name": "@db"
+          }
+        ]
+      }
+    ],
+    "name": "Information about me",
+    "description": "",
+    "id": "information-about-me",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/my_info.feature",
+    "tags": []
+  }
+]
